@@ -21,8 +21,8 @@ Meu nome é David Victor, sou formado em Ciência da Computação pelo IFCE - Ca
 ## Meu Status
 
 <a href="https://github.com/davidvictor7/github-readme-stats">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=paulovitorw1&layout=compact&show_icons=true&theme=solarized-dark" />
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=davidvictor7&layout=compact&show_icons=true&theme=solarized-dark" />
 </a>
 <a href="https://github.com/davidvictor7/github-readme-stats">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovitorw1&layout=compact&theme=solarized-dark&hide=HTML" />
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidvictor7&layout=compact&theme=solarized-dark&hide=HTML" />
 </a>
